@@ -17,13 +17,6 @@ Follow project guidelines and collaborate responsibly.
 
 Thank you for helping build a healthy open-source environment.
 
-<!--
-This Code of Conduct outlines the expectations for behavior within this project’s
-community. It ensures that all contributors feel respected, safe, and supported
-regardless of background or experience level. The document provides guidelines
-for positive interactions and explains how conflicts or violations will be 
-handled. Its purpose is to create a welcoming environment that encourages 
-collaboration, learning, and professional communication.
--->
+
 
 
